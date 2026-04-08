@@ -1,5 +1,7 @@
 Sales Analytics Project 📊
 
+![Sales Dashboard](dashboard.png)
+
 Overview:
 
 This project demonstrates end-to-end sales analytics using SQL, Excel, and Power BI. It covers data cleaning, reporting, dashboard creation, and trend forecasting.
@@ -44,6 +46,8 @@ Tools Used:
 * Microsoft Excel
 
 * Power BI
+
+
 
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
