@@ -1,6 +1,6 @@
 Sales Analytics Project 📊
 
-![Sales Dashboard](dashboard.png)
+![Sales Dashboard](dahboard.png)
 
 Overview:
 
